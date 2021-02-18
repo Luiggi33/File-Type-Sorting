@@ -7,8 +7,8 @@ import os
 import shutil
    
 # Select the Path you want to Sort and where you want to sort it
-path = 'C:/Users/luigg/Downloads'
-inputpath = 'C:/Users/luigg/Downloads'
+path = 'Path/To/Sort/It/To'
+inputpath = 'From/Where/To/Sort'
 
 # List all Things in the input dir
 list_ = os.listdir(inputpath) 
