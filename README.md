@@ -4,3 +4,7 @@
 1. Download the Python Files
 2. Setup your Input and Output Folder as you like
 3. Run the Python File with ``` py FileSorting.py ```
+
+## ToDo:
+- [ ] Make the Input- and Outputpath as arguments
+- [ ] Add Settings
